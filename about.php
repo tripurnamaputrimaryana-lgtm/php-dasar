@@ -3,12 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>php dasar</title>
+    <title>Document</title>
 </head>
 <body>
-    <?php $nama = "maryana"
-          $umur = 16
-    ?>
-    <h1>selamat datang,<?php echo $nama; $umur ?>!</h1>
+    ini halaman about
 </body>
 </html>
